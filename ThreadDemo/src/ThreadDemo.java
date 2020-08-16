@@ -1,4 +1,6 @@
-
+/**
+ * Thread class
+ * */
 class Thread1 extends Thread {
 	
 	public void run() {
@@ -17,6 +19,9 @@ class Thread1 extends Thread {
 	}
 }
 
+/**
+ * Thread class
+ * */
 class Thread2 extends Thread {
 	
 	public void run() {
